@@ -13,7 +13,7 @@ qETRC列车运行图系统
 本文档尚在策划阶段，在本文档尚无更多内容或尚未完成阶段，可参见其他支持:ref:`_sec_more`。
 
 
-.. toc_tree:: 
-   max_depth: 3
+.. toctree:: 
+   :maxdepth: 3
 
    overview
