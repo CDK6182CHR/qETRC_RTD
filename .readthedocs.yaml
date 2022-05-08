@@ -1,0 +1,13 @@
+# Read the docs configuration file
+
+version: 2
+
+python:
+  install:
+    - requirements: docs/requirements.txt
+
+sphinx:
+  configuration: docs/source/conf.py
+
+formats:
+  - pdf
