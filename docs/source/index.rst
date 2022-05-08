@@ -1,11 +1,12 @@
 qETRC列车运行图系统
-==================
+===================
 
 本文档是qETRC列车运行图系统的用户文档。qETRC程序目前以GPL协议开源，开源库地址：
 
 - Github: https://github.com/CDK6182CHR/qETRC
 - Gitee: https://gitee.com/xep0268/qETRC
-可以在\ ``Release``\ 获取最新构建版。
+
+可以在开源库\ ``Release``\ 部分获取最新构建版。
 
 联系方式：mxy0268@qq.com
 
@@ -13,7 +14,7 @@ qETRC列车运行图系统
 
 
 与pyETRC的关系
--------------
+--------------
 
 一言以蔽之：pyETRC是本程序作者的前作；qETRC是pyETRC的重构版本。
 
@@ -25,17 +26,16 @@ qETRC在继承了pyETRC几乎全部功能的基础上，支持多线路和路网
 技术上，qETRC重新设计了底层数据结构，重新实现运行图铺画等核心算法，以获得更强的可扩展性。
 
 文件交互
-^^^^^^^
+^^^^^^^^
 目前pyETRC与qETRC所用文件扩展名默认皆为\ ``*.pyetgr``\ （这实际上是一种具有我们规定结构的\ ``JSON``\ 格式）。\ **在两程序皆支持的范围内**\ ，运行图文件数据完全互联互通互认。
 
-由于Python语言的易扩展性等优点，原pyETRC项目（特别是数据部分）可以用于外部编程，方便地生成本系统所能读取的运行图文件格式。具体请参见\ `pyETRC代码库`_\ 。
-.. pyETRC代码库: https://github.com/CDK6182CHR/train_graph
+由于Python语言的易扩展性等优点，原pyETRC项目（特别是数据部分）可以用于外部编程，方便地生成本系统所能读取的运行图文件格式。具体请参见\ `pyETRC代码库 <https://github.com/CDK6182CHR/train_graph/>`_\ 。
 
 
 .. _sec_more:
 
 更多支持
--------
+--------
 
 - 本项目发行版所附发行注记\ ``ReleaseNote.pdf``\ 
 - 本项目开源库主页\ ``README.md``\ 
