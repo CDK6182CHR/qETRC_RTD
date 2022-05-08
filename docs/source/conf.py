@@ -38,3 +38,9 @@ epub_show_urls = 'footnote'
 #     "amsmath",
 #     "dollarmath",
 # ]
+
+latex_engine = 'xelatex'
+latex_use_xindy = False
+latex_elements = {
+    'preamble': '\\usepackage[UTF8]{ctex}\n',
+}
