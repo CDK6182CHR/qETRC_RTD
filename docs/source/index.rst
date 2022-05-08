@@ -37,6 +37,8 @@ qETRC在继承了pyETRC几乎全部功能的基础上，支持多线路和路网
 更多支持
 -------
 
+- 本项目发行版所附发行注记\ ``ReleaseNote.pdf``\ 
+- 本项目开源库主页\ ``README.md``\ 
 - 原pyETRC项目用户文档：https://pyetrc-rtd.readthedocs.io/
 - 作者邮箱：mxy0268@qq.com
 - 软件交流QQ群：865211882
