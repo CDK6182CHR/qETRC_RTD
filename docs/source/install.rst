@@ -13,7 +13,8 @@
 
 对于已安装旧版本的用户，可以下载补丁包，通常命名为 ``qETRC-win64-patch_Vx.x.x_Rxx_xxxxx.7z`` 。下载解压后将压缩包内文件复制到程序目录，覆盖原有文件即可。
 
-如果系统提示缺少某些dll文件，例如 ``msvcp140.dll`` ，请自行搜索安装所缺文件。
+.. note::
+    如果提示缺少\ ``msvc*.dll``\ 文件，请安装MSVC运行时库，下载地址：https://aka.ms/vs/17/release/vc_redist.x64.exe 
 
 
 .. note::

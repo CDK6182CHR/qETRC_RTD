@@ -22,3 +22,6 @@ qETRC列车运行图系统
    overview
    install
    tutorial
+   data/index
+   modify/index
+   view/index
