@@ -17,11 +17,13 @@ qETRC列车运行图系统
 
 
 .. toctree:: 
-   :maxdepth: 3
+   :maxdepth: 4
+   :glob:
 
    overview
    install
    tutorial
    data/index
+   interchange/index
    modify/index
    view/index
