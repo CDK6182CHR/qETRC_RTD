@@ -27,3 +27,4 @@ qETRC列车运行图系统
    interchange/index
    modify/index
    view/index
+   railnet/index
