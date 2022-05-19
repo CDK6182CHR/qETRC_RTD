@@ -37,3 +37,25 @@ qETRC在继承了pyETRC几乎全部功能的基础上，支持多线路和路网
 - 软件交流QQ群：865211882
 - B站视频合集《qETRC列车运行图系统》，由软件作者制作，对一些功能或者逻辑的专题讲解为主：https://space.bilibili.com/179545382/channel/collectiondetail?sid=350082&ctype=0  
 - 知乎专栏《qETRC开发小记》，软件作者在开发过程中的一些记录，偏向技术，以数据结构、算法说明为主：https://www.zhihu.com/column/c_1410676601487613952
+
+
+友情链接
+~~~~~~~~
+
+这里给出一些项目的友情链接；这些项目可能可以与本项目进行一定程度的交互。\ **此处给出链接，但并不表示本项目与下列项目存在关联，本项目及本文档作者不对以下项目承担任何责任，亦不接受以本文档为由的关于以下项目的咨询和反馈。请至相关项目主页寻求联系方式。**
+
+
+pyETRC项目
+^^^^^^^^^^^
+
+pyETRC项目是本项目的前身，且数据格式与本项目互通，可利用pyETRC数据部分代码实现运行图数据的外部编程。
+
+- 开源库地址：https://github.com/CDK6182CHR/train_graph/
+
+cParsing_12306项目
+^^^^^^^^^^^^^^^^^^^
+
+提供网络获取时刻表功能。
+
+- GitHub：https://github.com/denglihong2007/cParsing_12306
+- Gitee：https://gitee.com/zhupaigu/cParsing_12306

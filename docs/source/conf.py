@@ -45,3 +45,7 @@ latex_use_xindy = False
 latex_elements = {
     'preamble': '\\usepackage[UTF8]{ctex}\n',
 }
+
+intersphinx_mapping = {
+    # 'pyETRC-rtd':('https://pyetrc-rtd.readthedocs.io/zh_CN/master/', None)
+}
