@@ -6,8 +6,8 @@ project = 'qETRC'
 copyright = '2022, xep'
 author = 'xep'
 
-release = '1.1.6'
-version = '1.1.6'
+release = '1.1.11'
+version = '1.1.11'
 
 # -- General configuration
 
@@ -31,7 +31,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-# html_logo = ''
+html_logo = '_static/img/doc-icon.png'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
