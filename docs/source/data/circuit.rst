@@ -102,16 +102,22 @@
 交路拆分
 ~~~~~~~~~
 
+:起始版本: V1.7.5
+
 .. _sec_routing_merge:
 
 交路合并
 ~~~~~~~~~
+
+:起始版本: V1.7.5
 
 
 .. _sec_routing_miles:
 
 交路里程表
 ~~~~~~~~~~~
+
+:起始版本: V1.7.5
 
 .. _sec_diagram_routing_links:
 

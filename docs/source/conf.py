@@ -3,11 +3,11 @@
 # -- Project information
 
 project = 'qETRC'
-copyright = '2022, xep'
+copyright = '2025, xep'
 author = 'xep'
 
-release = '1.1.11'
-version = '1.1.11'
+release = '1.8.2'
+version = '1.8.2'
 
 # -- General configuration
 
